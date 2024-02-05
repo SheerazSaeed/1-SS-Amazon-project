@@ -6,7 +6,7 @@ const products = [
     stars: 4,
     count: 187
   },
-  priceCents: 1090,
+  priceCents: 1299,
   keywords: [
     "socks",
     "sports",
@@ -20,7 +20,7 @@ const products = [
     stars: 4.5,
     count: 87
   },
-  priceCents: 1090,
+  priceCents: 1000,
   keywords: [
     "socks",
     "sports",
