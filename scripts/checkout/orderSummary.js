@@ -195,5 +195,4 @@ export function renderOrderSummary(){
           renderPaymentSummary();
         });
       });
-}
-
+};
